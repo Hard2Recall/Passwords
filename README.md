@@ -12,4 +12,4 @@ is used to encript your password. Run the program, type in password you want enc
 `PasswordCracker` -  
 folder has 3 versions of `cracker.py` files. Each one with more complexity added to it.    
 When you run the program everything should be self explanatory.   
-You put your SHAhash(encripted password) and type of password your password is and its gonna brute forse it till it gets it.
+You put your SHAhash(encripted password) and type of password it is. Then it is going to brute force it untill its cracked.
