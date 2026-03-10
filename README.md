@@ -1,10 +1,12 @@
-# This is a script used for educational and local use that crasks passwords by bruteforse!
+# This is a script used for educational and local use that crasks passwords by bruteforse! (everything is run in local terminal)
 
-USAGE:  
-`CombinationsCalc` is used when you want how many possible combinations can be made using different characters.  
-Code is made so that everything is self explanatory when u run it. YOU USE IT IN YOUR TERMINAL.
+  
+**USAGE**:  
+`CombinationsCalc` folder contains two sub folders. Both do the same thing but `Version2` haves more options.  
+Start the program and from there everything will be self explanatory.  
 
-`SHAhashGenerator` is used to crypt your password.
+`SHAhashGenerator` is used to encript your password. Run the program, type in password you want encrypted and it will put out your password in 3 different encription formats.
 
-`PasswordCracker` when you run it everything should be self explanatory.   
-You put your SHAhash and type of password your password is and its gonna brute forse it till it gets it.
+`PasswordCracker` folder has 3 versions of `cracker.py` files. Each one with more complexity added to it.    
+When you run the program everything should be self explanatory.   
+You put your SHAhash(encripted password) and type of password your password is and its gonna brute forse it till it gets it.
