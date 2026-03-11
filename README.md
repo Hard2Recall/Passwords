@@ -1,4 +1,4 @@
-# This is a script used for educational and local use that crasks passwords by bruteforse! (everything is run in local terminal)
+# This is a script used for educational and local use that crasks passwords by bruteforce! (everything is run in local terminal)
 
   
 **USAGE**:  
