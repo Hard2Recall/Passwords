@@ -12,4 +12,4 @@ number_of_characters = int(input("Enter the number of characters: ")) #ask the u
 
 
 combinations = calculate_combinations(number_of_characters) #does the calculation
-print(f"The number of possible combinations is: {combinations}") #prints the result
+print(f"The number of possible combinations is: {combinations:,}".replace(",", ".")) #prints the result
