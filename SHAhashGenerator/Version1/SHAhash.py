@@ -1,5 +1,6 @@
+#library needed
 import hashlib
-import getpass
+
 
 password = input("Enter your password: ")
 
